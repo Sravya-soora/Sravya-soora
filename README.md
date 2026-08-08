@@ -1,287 +1,120 @@
-```markdown
-# 👋 Hi, I'm Sravya
-
-### Java Full Stack Developer | Backend Developer | Aspiring Software Engineer
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-📍 Hyderabad, India  
-🎓 B.Tech in Computer Science & Engineering — Nalla Malla Reddy Engineering College | 2027
-
-> Building scalable backend systems and modern full-stack applications with Java, Spring Boot, and web technologies.
-
----
-
-## 🚀 About Me
-
-I'm a Computer Science Engineering student focused on building **Java-based backend systems and full-stack web applications**.
-
-My primary interests include **Java, Spring Boot, REST API development, database design, authentication, and full-stack application development**.
-
-I enjoy turning real-world problems into practical software solutions while continuously improving my **DSA, backend development, system design, and software engineering skills**.
-
-🎯 **Career Focus:** Java Full Stack Development • Backend Engineering • Software Engineering
-
----
-
-## ⚡ Engineering Highlights
-
-<table>
-<tr>
-<td align="center">
-<b>Java</b><br>
-Core & Advanced
-</td>
-
-<td align="center">
-<b>Spring Boot</b><br>
-Backend Development
-</td>
-
-<td align="center">
-<b>REST APIs</b><br>
-20+ APIs
-</td>
-
-<td align="center">
-<b>DSA</b><br>
-Problem Solving
-</td>
-</tr>
-</table>
-
----
-
-# 🛠️ Technical Arsenal
-
-### 💻 Languages
-
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-### ⚙️ Backend & Frameworks
-
-<p>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-</p>
-
-### 🎨 Frontend
-
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-### 🗄️ Database & Data
-
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### 🔧 Tools & Technologies
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🏢 Multi-Tenant SaaS Platform with RBAC
-
-A secure and scalable SaaS platform designed around **multi-tenant architecture and role-based access control**.
-
-### Key Features
-
-- 🔐 JWT-based authentication
-- 👥 Role-Based Access Control
-- 🏢 Multi-tenant architecture
-- 🔑 ADMIN, MANAGER and EMPLOYEE roles
-- 🔗 15+ REST APIs
-- 🗄️ MySQL database integration
-- ⚡ Redis integration
-- 🐳 Docker-based deployment
-
-### Tech Stack
-
-`Java` `Spring Boot` `Spring Security` `JWT` `MySQL` `Redis` `Docker`
-
-[🔗 View Project](YOUR_SAAS_PROJECT_URL)
-
----
-
-## 🐄 Early Skin Cancer Risk Prediction in Bovines
-
-An AI-powered application designed to analyze bovine skin images and classify potential **Squamous Cell Carcinoma (SCC) risk levels**.
-
-### Key Features
-
-- 🖼️ Image-based disease analysis
-- 🤖 Deep learning classification
-- 📊 Confidence-based prediction
-- 🔬 MobileNetV2-based model
-- 🌐 Flask backend
-- 📷 OpenCV image processing
-
-### Tech Stack
-
-`Python` `TensorFlow` `Keras` `MobileNetV2` `OpenCV` `Flask` `NumPy`
-
-[🔗 View Project](YOUR_BOVINE_PROJECT_URL)
-
----
-
-## 📔 Secure Diary Management System
-
-A secure web application for managing personal diary entries using a **Java Spring Boot backend**.
-
-### Key Features
-
-- 🔐 Secure application architecture
-- 📝 Diary CRUD operations
-- 🔗 RESTful APIs
-- 🗄️ Database persistence
-- ⚙️ Spring Boot backend
-
-### Tech Stack
-
-`Java` `Spring Boot` `REST API` `MySQL`
-
-[🔗 View Project](YOUR_DIARY_PROJECT_URL)
-
----
-
-# 🧠 Problem Solving
-
-I actively practice Data Structures & Algorithms to strengthen my problem-solving and coding skills.
-
-<p>
-<a href="YOUR_LEETCODE_URL">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="YOUR_HACKERRANK_URL">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-</p>
-
----
-
-# 📊 GitHub Analytics
+<h1 align="center">Hi there, I'm Sura Sravya 👋</h1>
+<h3 align="center">Java Backend Developer | Spring Boot Enthusiast | CS Undergrad</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" height="170"/>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/sravyasoora">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:sravyasoora@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-# 🔥 Contribution Streak
+### 🧑‍💻 About Me
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true" />
+- 🎓 B.Tech in Computer Science Engineering @ Nalla Malla Reddy Engineering College (2023 – 2027), CGPA **9.0/10**
+- 💡 Passionate about building secure, scalable backend systems with **Java & Spring Boot**
+- 🔐 Experienced in **REST API design, JWT Authentication, RBAC, and Spring Security**
+- 🧠 Also exploring **Deep Learning & Computer Vision** through applied projects
+- 📈 Solved **150+ DSA problems** on LeetCode and **150+ challenges** on HackerRank
+- 📫 Reach me at **sravyasoora@gmail.com** | +91-6302536177
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+</p>
+
+**Backend**
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+</p>
+
+**Frontend**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+</p>
+
+**Database & Tools**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
+</p>
+
+**ML / CV**
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
 </p>
 
 ---
 
-# 📚 Currently Learning
+### 🚀 Featured Projects
 
-I'm continuously improving my software engineering skills with a focus on:
+#### 🔐 [Multi-Tenant SaaS Platform with RBAC](https://github.com/sravyasoora)
+*Jun 2026 – Present*
+Multi-tenant SaaS backend built with Java, Spring Boot, Spring Security, JWT, MySQL, Redis, and Docker.
+- Implemented JWT authentication and role-based access control for 3 roles (Admin, Manager, Employee)
+- Built 15+ REST APIs with pagination, validation, and centralized exception handling
+- Improved performance with Redis caching and documented all endpoints via Swagger/OpenAPI
 
-- ☕ Advanced Java
-- 🌱 Spring Boot & Spring Security
-- 🔐 Authentication & Authorization
-- 🏗️ Backend Architecture
-- 🧩 Data Structures & Algorithms
-- ⚛️ React & Full-Stack Development
-- 🐳 Docker & Deployment
-- ☁️ Cloud & Scalable Applications
+#### 📔 [Secure Diary Management System](https://github.com/sravyasoora)
+*Aug 2025 – Nov 2025*
+A secure, full CRUD diary web app built with Java and Spring Boot.
+- Delivered 5+ REST APIs with Spring Security-based authentication and authorization across 10+ operations
+- Designed a relational MySQL schema for efficient and secure data storage
 
----
-
-# 🏆 Certifications & Achievements
-
-- 🎓 B.Tech in Computer Science & Engineering — 2027
-- 💻 Active DSA problem solving
-- 🚀 Developed Java Spring Boot backend projects
-- 🔗 Built RESTful APIs for real-world applications
-- 🤖 Developed an AI-based bovine skin disease prediction project
+#### 🐄 [Bovine Skin Cancer Detection using CNN](https://github.com/sravyasoora)
+*Jan 2026 – Mar 2026*
+A CNN-based deep learning model for early detection of Squamous Cell Carcinoma (SCC) in bovine skin.
+- Trained on 500+ lesion images to classify cancer risk into 3 severity levels
+- Used TensorFlow/Keras and OpenCV for image preprocessing and model development
 
 ---
 
-# 🤝 Open To
+### 📜 Certifications
 
-I'm currently interested in:
-
-- 💼 Java Developer opportunities
-- ⚙️ Backend Developer opportunities
-- 🌐 Java Full Stack opportunities
-- 🎓 Software Engineering internships
-- 🚀 Real-world development projects
-- 🤝 Open-source collaboration
-- 🔬 Technical research projects
+- **Java from Zero to First Job** — Udemy (Instructor: Andrii Piatakha) — *Mar 2025*
+- **Career Essentials in GitHub** — LinkedIn Learning, in collaboration with GitHub — *Aug 2025*
+- **AI Careers for Women Program** — Edunet Foundation, in collaboration with Microsoft India & SAP India — *Jun 2026*
 
 ---
 
-# 📫 Connect With Me
+### 🏆 Achievements
 
-<p align="left">
-
-<a href="YOUR_GITHUB_URL">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sravya-soora-7b9a7430b">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_RESUME_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+- ✅ Solved 150+ Data Structures & Algorithms problems on LeetCode
+- ✅ Completed 150+ coding challenges on HackerRank
+- ✅ Delivered 3 Java Spring Boot projects with 20+ REST APIs and full CRUD functionality
+- ✅ Applied OOP principles to build modular, scalable, maintainable backend systems
 
 ---
 
 <p align="center">
-
-### 💻 Build. Learn. Solve. Repeat. 🚀
-
+  <img src="https://komarev.com/ghpvc/?username=sravyasoora&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
-<p align="center">
-<i>Thanks for visiting my profile!</i>
-</p>
-```
-
-### 🔧 Before you publish
-
-Replace only these placeholders:
-
-* `YOUR_GITHUB_USERNAME`
-* `YOUR_GITHUB_URL`
-* `YOUR_RESUME_EMAIL`
-* `YOUR_SAAS_PROJECT_URL`
-* `YOUR_BOVINE_PROJECT_URL`
-* `YOUR_DIARY_PROJECT_URL`
-* `YOUR_LEETCODE_URL`
-* `YOUR_HACKERRANK_URL`
-
-I deliberately left those as placeholders rather than inventing URLs. Your **LinkedIn URL is already inserted**.
-
-Also, I would **not publish the “150+ DSA” numbers yet** unless those exact numbers are confirmed from your current resume/profile, because your earlier information contained different counts.
+<p align="center"><i>Thanks for stopping by — let's connect and build something great! 🚀</i></p>
