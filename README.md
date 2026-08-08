@@ -1,123 +1,259 @@
-<h1 align="center">👋🌸 Sura Sravya</h1>
+<div align="center">
 
-<p align="center">
-  <b>Java Backend Developer | Spring Boot & Security Specialist | Full Stack Enthusiast</b>
+# 👩‍💻 Sravya Soora
+
+### ☕ Java Backend Developer · 🌱 Spring Boot · 🔐 Spring Security · 🌐 Full Stack Developer
+
+<p>
+  <i>Building secure, scalable and meaningful software solutions.</i>
 </p>
 
-<p align="center">
-  <a href="mailto:sravyasoora@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-sravyasoora@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/sravyasoora">
-    <img src="https://img.shields.io/badge/GITHUB-VISIT-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+</div>
+
+---
+
+## 🌱 A Little About Me
+
+I'm a **Computer Science & Engineering student** and aspiring **Software Engineer** with a strong interest in **backend development, application security, and full-stack application development**.
+
+My primary focus is the **Java ecosystem**, especially:
+
+**Java → Spring Boot → Spring Security → REST APIs → JPA/Hibernate → MySQL**
+
+I enjoy understanding what happens behind the scenes of an application — from designing databases and APIs to implementing authentication, authorization, business logic, and secure data access.
+
+I'm also expanding my **Full Stack Development** skills with **HTML, CSS, JavaScript, and React**, with the goal of being able to work across both backend and frontend layers.
+
+### 🚀 Currently, I'm focused on
+
+* ☕ Strengthening Java and Spring Boot fundamentals
+* 🔐 Building secure applications using Spring Security and JWT
+* 🌐 Designing and developing RESTful APIs
+* 🗄️ Working with MySQL, JPA, and Hibernate
+* 🏢 Building Multi-Tenant SaaS applications
+* 👥 Implementing Role-Based Access Control (RBAC)
+* 🧠 Improving Data Structures & Algorithms
+* ⚛️ Developing stronger React and frontend skills
+* 🏗️ Learning how production-level applications are designed and structured
+
+---
+
+## 🧩 My Core Stack
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" />
 </p>
 
----
+`Java` `Spring Boot` `Spring MVC` `Spring Security` `JPA` `Hibernate`
 
-### 👋 About Me
+### Database & APIs
 
-Hi, I'm **Sura Sravya** — a Computer Science undergrad and backend developer from India 🇮🇳
-
-- 🎓 Currently pursuing B.Tech in CSE at Nalla Malla Reddy Engineering College (CGPA: 9.0/10)
-- 🔐 Specialize in building secure, scalable REST APIs with **Java, Spring Boot & Spring Security**
-- 🧩 Comfortable across the stack — JWT auth, RBAC, MySQL, Redis, Docker, and API documentation with Swagger
-- 🧠 Also explore Deep Learning & Computer Vision through applied projects
-- 📈 150+ DSA problems on LeetCode · 150+ challenges on HackerRank
-- 🎯 Goal: to grow into a strong full-stack/backend engineer building real-world, production-grade systems
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,docker,js,html,css,react,git,github,postman,idea,vscode" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postman" />
 </p>
 
----
+`MySQL` `REST APIs` `JWT` `Postman`
 
-### 🎓 Education & Training
+### Frontend
 
-- 🏫 **B.Tech, Computer Science Engineering** — Nalla Malla Reddy Engineering College *(2023 – 2027)*, CGPA: **9.0/10**
-- 🏫 **Intermediate (MPC)** — Gowtham Junior College *(2021 – 2023)*, **98%**
-- 🏫 **SSC** — Telangana State Model School *(2021)*, CGPA: **9.7/10**
-- 📜 Java from Zero to First Job — Udemy *(Mar 2025)*
-- 📜 Career Essentials in GitHub — LinkedIn Learning x GitHub *(Aug 2025)*
-- 📜 AI Careers for Women Program — Edunet Foundation x Microsoft India & SAP India *(Jun 2026)*
-
----
-
-### 🎯 Career Objective
-
-I'm Sura Sravya, a Java backend developer with a strong grip on **Spring Boot, Spring Security, and REST API design**. I love building secure, well-documented, production-style systems and continuously exploring new tools — from caching with Redis to containerizing with Docker. I'm looking to grow as a backend/full-stack engineer and contribute to real-world software teams.
-
----
-
-### 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-**🔐 [Multi-Tenant SaaS Platform with RBAC](https://github.com/sravyasoora)**
-`Java` `Spring Boot` `Spring Security` `JWT` `MySQL` `Redis` `Docker`
-
-Multi-tenant backend with JWT auth + RBAC for 3 roles, 15+ REST APIs with pagination & validation, Redis caching, and Swagger/OpenAPI docs.
-
-</td>
-<td width="50%">
-
-**📔 [Secure Diary Management System](https://github.com/sravyasoora)**
-`Java` `Spring Boot` `Spring Security` `MySQL`
-
-Secure CRUD diary app with 5+ REST APIs, Spring Security auth across 10+ operations, and a 2-table relational MySQL schema.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🐄 [Bovine Skin Cancer Detection using CNN](https://github.com/sravyasoora)**
-`Python` `TensorFlow/Keras` `OpenCV` `Flask`
-
-CNN model classifying Squamous Cell Carcinoma risk into 3 severity levels, trained on 500+ lesion images.
-
-</td>
-<td width="50%">
-
-**✨ More coming soon...**
-
-Currently building and shipping new backend & full-stack projects — check back for updates!
-
-</td>
-</tr>
-</table>
-
----
-
-### 🏆 Achievements
-
-| | |
-|---|---|
-| ✅ | Solved **150+ DSA problems** on LeetCode |
-| ✅ | Completed **150+ coding challenges** on HackerRank |
-| ✅ | Delivered **3 Java Spring Boot projects** with 20+ REST APIs |
-| ✅ | Applied **OOP principles** to build modular, scalable backend systems |
-
----
-
-### 🌐 Let's Connect
-
-- 📧 Email: **sravyasoora@gmail.com**
-- 📱 Phone: **+91-6302536177**
-- 💼 LinkedIn: [your-linkedin-handle](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
-- 🐙 GitHub: [sravyasoora](https://github.com/sravyasoora)
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sravyasoora&style=for-the-badge&color=blueviolet" alt="Profile views" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
 </p>
 
-<p align="center"><i>Thanks for visiting — let's build something great together! 🚀</i></p>
+`HTML` `CSS` `JavaScript` `React`
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,eclipse,vscode,maven" />
+</p>
+
+`Git` `GitHub` `Eclipse` `VS Code` `Maven`
+
+### Exploring
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,redis" />
+</p>
+
+`Python` `TensorFlow` `OpenCV` `Redis`
+
+---
+
+## 🚀 Projects
+
+### 🏢 CompanyHub — Multi-Tenant SaaS & RBAC Platform
+
+**CompanyHub** is a **B2B SaaS employee management platform** designed to manage multiple companies within a single application while maintaining secure company-level data isolation.
+
+The project focuses on real-world backend engineering concepts such as **authentication, authorization, multi-tenancy, role-based access control, database relationships, and secure REST API development**.
+
+It provides different levels of access for **Admins, Managers, and Employees**, allowing organizations to manage their workforce and day-to-day operations through a centralized platform.
+
+#### ✨ Key Features
+
+* 🔐 **JWT Authentication** — Secure user authentication using JSON Web Tokens
+* 🛡️ **Spring Security** — Protected APIs and security configuration
+* 👑 **RBAC** — Different permissions based on user roles
+* 🏢 **Multi-Tenancy** — Multiple companies supported within one platform
+* 🔒 **Data Isolation** — Company-specific data access and protection
+* 👥 **Employee Management** — Manage employee information and access
+* 🏬 **Department Management** — Create and manage organizational departments
+* 📅 **Attendance Management** — Track employee attendance
+* 📝 **Leave Management** — Submit, review, approve, and reject leave requests
+* 📊 **Dashboard** — Centralized statistics and management information
+* 🔑 **Password Security** — BCrypt password encryption
+* ⚙️ **Method-Level Authorization** — Role-based endpoint protection
+* 🌐 **RESTful Architecture** — Structured backend APIs for application communication
+
+**👥 Roles:** `ADMIN` · `MANAGER` · `EMPLOYEE`
+
+**🛠️ Tech:** `Java` `Spring Boot` `Spring Security` `JWT` `JPA` `Hibernate` `MySQL` `Maven` `Postman`
+
+🔗 **Project:** [View on GitHub](YOUR_COMPANYHUB_REPO_URL)
+
+---
+
+### 🔐 Secure Diary Management System
+
+**Secure Diary Management System** is a backend-focused application designed to provide users with a secure environment for creating and managing personal diary entries.
+
+The project focuses on implementing **authentication, authorization, secure data access, REST APIs, and database integration**, providing practical experience with Spring Boot and Spring Security.
+
+#### ✨ Key Features
+
+* 🔑 User Registration & Authentication
+* 🛡️ Secure Authorization
+* 🔐 Password Encryption
+* 👤 User-Based Data Access
+* 📝 Diary Entry Management
+* 🌐 RESTful APIs
+* 🗄️ MySQL Database Integration
+* 🔒 Protected Application Resources
+
+**🛠️ Tech:** `Java` `Spring Boot` `Spring Security` `REST API` `MySQL`
+
+🔗 **Project:** [View on GitHub](YOUR_SECURE_DIARY_REPO_URL)
+
+---
+
+### 🎓 Student Record Management System
+
+**Student Record Management System** is a Java-based application created to efficiently manage and organize student information through structured database operations.
+
+The project provides hands-on experience with **CRUD operations, database connectivity, data management, and application logic**, forming a strong foundation for backend development.
+
+#### ✨ Key Features
+
+* 👨‍🎓 Student Information Management
+* ➕ Add Student Records
+* ✏️ Update Student Information
+* 🔍 Search Student Records
+* 🗑️ Delete Records
+* 🗄️ Database Integration
+* 📋 Structured Record Management
+
+**🛠️ Tech:** `Java` `MySQL`
+
+🔗 **Project:** [View on GitHub](YOUR_STUDENT_RECORD_REPO_URL)
+
+---
+
+### 🌱 Community Gardens Social Outreach
+
+**Community Gardens Social Outreach** is a web-based platform designed to encourage community participation, communication, and awareness around gardening initiatives.
+
+The project focuses on creating an engaging and accessible web experience while applying fundamental **frontend development, responsive design, and user interaction concepts**.
+
+#### ✨ Key Features
+
+* 🌱 Community Gardening Information
+* 👥 User Engagement
+* 📢 Social Outreach
+* 🎨 Responsive Web Design
+* 🌐 Interactive Web Pages
+* 📱 User-Friendly Interface
+
+**🛠️ Tech:** `HTML` `CSS` `JavaScript`
+
+🔗 **Project:** [View on GitHub](YOUR_COMMUNITY_GARDENS_REPO_URL)
+
+---
+
+## 🧠 Problem Solving
+
+I'm actively improving my **Data Structures & Algorithms** skills through regular coding practice.
+
+### Current Focus
+
+`Arrays` · `Strings` · `HashMap` · `HashSet`
+
+`Two Pointers` · `Sliding Window` · `Linked Lists`
+
+`Searching` · `Sorting` · `Recursion`
+
+My focus is not simply on solving problems, but understanding the **logic, patterns, time complexity, and optimal approach** behind each solution.
+
+---
+
+## 🎓 Education
+
+### 🎓 Bachelor of Technology — Computer Science & Engineering
+
+**Nalla Malla Reddy Engineering College**
+
+📍 Hyderabad, Telangana, India 🇮🇳
+
+---
+
+## 🌐 Languages
+
+* 🇮🇳 **Telugu** — Native
+* 🇬🇧 **English** — Professional Working Proficiency
+* 🇮🇳 **Hindi** — Comfortable
+
+---
+
+## 🎯 Career Objective
+
+I am an aspiring **Software Engineer and Java Backend Developer** passionate about building **secure, scalable, and maintainable software applications**.
+
+My goal is to strengthen my expertise in **Java, Spring Boot, Spring Security, REST APIs, databases, system design, and full-stack development**, while continuously improving my Data Structures & Algorithms and problem-solving abilities.
+
+I aim to contribute to **real-world production systems**, learn from experienced engineers, and grow into a developer capable of designing and developing reliable software solutions from the ground up.
+
+---
+
+## 🤝 Let's Connect
+
+📧 **Email:** [YOUR_EMAIL](mailto:YOUR_EMAIL)
+
+🌐 **Website:** [YOUR_WEBSITE](YOUR_WEBSITE)
+
+🔗 **LinkedIn:** [YOUR_LINKEDIN](YOUR_LINKEDIN)
+
+💻 **GitHub:** [YOUR_GITHUB](YOUR_GITHUB)
+
+📘 **Facebook:** [YOUR_FACEBOOK](YOUR_FACEBOOK)
+
+🐦 **Twitter/X:** [YOUR_TWITTER](YOUR_TWITTER)
+
+---
+
+<div align="center">
+
+### ✨ Learn. Build. Improve. 🚀
+
+<i>Turning ideas into code and code into meaningful solutions.</i>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:2563eb,100:06b6d4&height=100&section=footer" width="100%" />
+
+</div>
