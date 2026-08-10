@@ -228,17 +228,11 @@ I aim to contribute to **real-world production systems**, learn from experienced
 
 ## 🤝 Let's Connect
 
-📧 **Email:** [YOUR_EMAIL](mailto:YOUR_EMAIL)
+📧 **Email:** [sravyasoora@gmail.com](mailto:YOUR_EMAIL)
 
-🌐 **Website:** [YOUR_WEBSITE](YOUR_WEBSITE)
+🔗 **LinkedIn:** [www.linkedin.com/in/sravya-soora-7b9a7430b](YOUR_LINKEDIN)
 
-🔗 **LinkedIn:** [YOUR_LINKEDIN](YOUR_LINKEDIN)
-
-💻 **GitHub:** [YOUR_GITHUB](YOUR_GITHUB)
-
-📘 **Facebook:** [YOUR_FACEBOOK](YOUR_FACEBOOK)
-
-🐦 **Twitter/X:** [YOUR_TWITTER](YOUR_TWITTER)
+💻 **GitHub:** [https://github.com/Sravya-soora](YOUR_GITHUB)
 
 ---
 
