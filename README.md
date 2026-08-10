@@ -230,7 +230,7 @@ I aim to contribute to **real-world production systems**, learn from experienced
 
 📧 **Email:** [sravyasoora@gmail.com](mailto:sravyasoora@gmail.com)
 
-🔗 **LinkedIn:** [linkedin.com/in/sravya-soora-7b9au7430b](https://www.linkedin.com/in/sravya-soora-7b9au7430b)
+🔗 **LinkedIn:** [linkedin.com/in/sravya-soora-7b9a7430b](https://www.linkedin.com/in/sravya-soora-7b9a7430b)
 
 💻 **GitHub:** [github.com/Sravya-soora](https://github.com/Sravya-soora)
 
